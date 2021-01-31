@@ -15,5 +15,3 @@ CREATE TABLE IF NOT EXISTS shopping_list (
     checked BOOLEAN DEFAULT false NOT NULL,
     category grocery NOT NULL
 );
-
-
